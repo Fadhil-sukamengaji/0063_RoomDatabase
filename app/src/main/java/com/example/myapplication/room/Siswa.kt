@@ -1,4 +1,3 @@
 package com.example.myapplication.room
 
-class Siswa {
-}
+data class Siswa()
