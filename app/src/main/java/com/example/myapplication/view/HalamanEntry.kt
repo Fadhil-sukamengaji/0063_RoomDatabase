@@ -24,11 +24,10 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.myapplication.R
-import com.example.myapplication.uicontroller.DestinasiNavigasi
-import com.example.myapplication.uicontroller.SiswaTopAppBar
+import com.example.myapplication.view.route.DestinasiNavigasi
 import com.example.myapplication.viewmodel.DetailsSiswa
 import com.example.myapplication.viewmodel.EntryViewModel
-import com.example.myapplication.viewmodel.PenyediaViewModel
+import com.example.myapplication.viewmodel.provider.PenyediaViewModel
 import com.example.myapplication.viewmodel.UIStateSiswa
 import kotlinx.coroutines.launch
 
