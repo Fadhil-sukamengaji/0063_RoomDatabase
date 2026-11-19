@@ -1,4 +1,4 @@
-package com.example.myapplication.uicontroller
+package com.example.myapplication.view.route
 
 interface DestinasiNavigasi {
     /**
